@@ -1,6 +1,4 @@
-Unix-Workbench
-
-DATE:12/12/2019
-TIME: 22:58
-The number of code lines in guessinggame.sh is: 23
+Project title: guessing Game
+The date and time at which make was run: 12/12/2019 ,  22:58
+The number of lines of code contained in guessinggame.sh: 23
 
